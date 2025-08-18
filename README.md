@@ -38,14 +38,23 @@
 
 ###
 
-<div align="left" style="display:flex;align-items:center;gap:12px;flex-wrap:wrap;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="swift" />
+<div align="left">
+  <a href="https://www.linkedin.com/in/prabal-kumar-70110b201/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://mail.google.com/mail/u/0/?fs=1&to=prabalhayden747@gmail.com&su=&body=Hello+there,%0A%0A&tf=cm" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://discord.gg/n8VSGkJ2" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+   <a href="https://mail.google.com/mail/u/0/?fs=1&to=prabalhayden747@gmail.com&su=&body=Hello+there,%0A%0A&tf=cm" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://discord.gg/n8VSGkJ2" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="52" height="40" alt="discord logo"  />
+  </a>
 </div>
-
 
 ###
 
