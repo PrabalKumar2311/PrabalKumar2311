@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<p align="left">My name is Prabal and I'm a Developer, from India</p>
+<h2 align="left">My name is Prabal and I'm a Developer, from India</h2>
 
 ###
 
@@ -21,10 +21,10 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/prabal-kumar-70110b201/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
+  <a href="https://www.linkedin.com/in/prabal-kumar-70110b201/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank" text-decoration: none>
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://mail.google.com/mail/u/0/?fs=1&to=prabalhayden747@gmail.com&su=&body=Hello+there,%0A%0A&tf=cm" target="_blank">
+  <a href="https://mail.google.com/mail/u/0/?fs=1&to=prabalhayden747@gmail.com&su=&body=Hello+there,%0A%0A&tf=cm" target="_blank" text-decoration: none>
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   <a href="https://discord.gg/n8VSGkJ2" target="_blank">
@@ -114,12 +114,12 @@
   <a href="https://discord.gg/n8VSGkJ2" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="52" height="40" alt="discord logo"  />
   </a>
-   <a href="" target="_blank">
+   <a href="https://mail.google.com/mail/u/0/?fs=1&to=prabalhayden747@gmail.com&su=&body=Hello+there,%0A%0A&tf=cm" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-
+  <a href="https://discord.gg/n8VSGkJ2" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="52" height="40" alt="discord logo"  />
-
+  </a>
 </div>
 
 ###
@@ -131,3 +131,7 @@
 ###
 
 <br clear="both">
+
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=PrabalKumar2311.PrabalKumar2311&right_color=aliceblue"  />
+
+###
