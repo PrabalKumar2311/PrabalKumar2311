@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<h2 align="left">My name is Prabal and I'm a Developer, from India</h2>
+<p align="left">My name is Prabal and I'm a Developer, from India</p>
 
 ###
 
@@ -131,7 +131,3 @@
 ###
 
 <br clear="both">
-
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=PrabalKumar2311.PrabalKumar2311&right_color=aliceblue"  />
-
-###
