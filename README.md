@@ -114,10 +114,10 @@
   <a href="https://discord.gg/n8VSGkJ2" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="52" height="40" alt="discord logo"  />
   </a>
-   <a href="https://mail.google.com/mail/u/0/?fs=1&to=prabalhayden747@gmail.com&su=&body=Hello+there,%0A%0A&tf=cm" target="_blank">
+   <a href="" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-  <a href="https://discord.gg/n8VSGkJ2" target="_blank">
+  <a href="" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="52" height="40" alt="discord logo"  />
   </a>
 </div>
