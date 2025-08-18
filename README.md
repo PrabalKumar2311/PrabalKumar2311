@@ -8,7 +8,7 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">🧑‍💻 About me</h2>
 
 ###
 
@@ -34,7 +34,7 @@
 
 ###
 
-<h2 align="left">Markup and Languages</h2>
+<h2 align="left">📝 Markup and Languages</h2>
 
 ###
 
@@ -58,7 +58,7 @@
 
 ###
 
-<h2 align="left">Frameworks, Libraries & Databases</h2>
+<h2 align="left">🧩 Frameworks, Libraries & Databases</h2>
 
 ###
 
@@ -82,7 +82,7 @@
 
 ###
 
-<h2 align="left">Tools, Platforms & OS</h2>
+<h2 align="left"> 🛠️ Tools, Platforms & OS</h2>
 
 ###
 
