@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">📚 Currently learning React<br>📬 Shoot me with a mail or connect with me on LinkedIn :)</p>
+<p align="left">📚 Currently learning React<br>📬 Send me with a mail or connect with me on LinkedIn :)</p>
 
 ###
 
