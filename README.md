@@ -71,6 +71,9 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   <a>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="52" height="40" alt="discord logo"  />
   </a>
    <a>
