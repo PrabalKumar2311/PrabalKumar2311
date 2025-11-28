@@ -66,7 +66,7 @@
 <div align="left">
   <a>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
+  </a>  
   <a>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="52" height="40" alt="gmail logo"  />
   </a>
@@ -80,8 +80,12 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   <a>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="52" height="40" alt="discord logo"  />
   </a>
+  
 </div>
 
 ###
