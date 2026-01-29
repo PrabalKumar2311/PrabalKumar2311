@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">📚 Currently learning React Three Fiber <br>📬 Send me with a mail or connect with me on LinkedIn :)</p>
+<p align="left">📚 Currently learning React Three Fiber <br>📬 Send me with a mail or connect with me on LinkedIn :)<br>🤝 Open to collaborate — let’s connect via email or LinkedIn</p>
 
 ###
 
