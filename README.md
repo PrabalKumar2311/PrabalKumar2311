@@ -94,6 +94,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg"width="52"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg"width="52"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="52" />
+  <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Cloudinary_logo.svg" height="52"/> -->
 </p>
 
 ###
